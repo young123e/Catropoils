@@ -2,7 +2,8 @@
 
 # MeatMbtiTest_2023_1_1
 ## 🔗[Catropoils](https://catropoils.netlify.app)
-![Catropolis](https://github.com/young123e/Catropoils_2023_1_2/assets/93528188/0c545c54-5b30-410a-af6e-9593ce66fd5e)
+![Catropolis](https://github.com/young123e/Catropoils_2023_1_2/assets/93528188/04a25b5b-cae7-4d31-8c4c-55eb2ec6ff82)
+
 
 
 ## 😺개발 동기
