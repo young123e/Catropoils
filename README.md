@@ -1,6 +1,5 @@
 # Catropoils_2023_1_2
 
-# MeatMbtiTest_2023_1_1
 ## 🔗[Catropoils](https://catropoils.netlify.app)
 ![Catropolis](https://github.com/young123e/Catropoils_2023_1_2/assets/93528188/04a25b5b-cae7-4d31-8c4c-55eb2ec6ff82)
 
